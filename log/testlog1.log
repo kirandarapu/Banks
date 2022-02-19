@@ -1,0 +1,10 @@
+2022-02-13 21:59:41,347 [main] INFO ebanking - URL is opened
+2022-02-13 21:59:43,622 [main] INFO ebanking - enter username
+2022-02-13 21:59:44,030 [main] INFO ebanking - enter password
+2022-02-13 21:59:49,749 [main] INFO ebanking - click login button
+2022-02-13 21:59:49,792 [main] INFO ebanking - testcase is passed
+2022-02-13 23:02:18,998 [main] INFO ebanking - URL is opened
+2022-02-13 23:02:20,309 [main] INFO ebanking - enter username
+2022-02-13 23:02:21,578 [main] INFO ebanking - enter password
+2022-02-13 23:02:23,905 [main] INFO ebanking - click login button
+2022-02-13 23:02:24,001 [main] INFO ebanking - testcase is passed
